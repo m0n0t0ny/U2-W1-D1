@@ -313,7 +313,8 @@ footer a {
     margin-right: 7rem;
   }
   header div img {
-    width: 28%;
+    height: 100%;
+    padding: 1rem;
     display: inline-block;
     vertical-align: middle;
   }
@@ -426,6 +427,8 @@ footer a {
   aside h2 {
   }
   aside div {
+    display: inline-block;
+    width: 33.1%;
   }
   aside div p:last-child {
   }
